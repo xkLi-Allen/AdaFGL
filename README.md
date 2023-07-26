@@ -13,10 +13,8 @@ Software environment: Ubuntu 18.04.6, Python 3.9, PyTorch 1.11.0 and CUDA 11.8.
 
 To train the model(s) in the paper
 
-1. Please unzip Planetoid.zip/Chameleon.zip to the current file directory location
+1. Please unzip datasets to the current file directory location
 2. Open main.py to train AdaFGL with our proposed decouple two step training framework.
-
-    We provide Planetoid/Chameleon dataset under Louvain and structure Noniid 10 clients split as example (hyperparameters in our paper).
 
     Run this command:
 
