@@ -1,4 +1,4 @@
-## AdaFGL: A New Paradigm for Federated Graph Learning
+## AdaFGL: A New Paradigm for Federated Node Classification with Topology Heterogeneity
 
 **Requirements**
 
